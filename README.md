@@ -1,4 +1,4 @@
-## This is a Simple React App for showing how to user JSX!
+## This is a Simple React App for showing how to use JSX!
 
 # Getting Started with Create React App
 
